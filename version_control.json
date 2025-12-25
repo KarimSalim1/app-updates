@@ -1,10 +1,11 @@
 {
-  "latest_version": 9,
-  "min_required_version": 9,
-  "update_url": "https://github.com/KarimSalim1/app-updates/releases/download/v8/app-release.apk",
+  "latest_version": 8,
+  "min_required_version": 8,
+  "update_url": "https://www.mediafire.com/file/lx4qp8su0qv8jhc/app-release.apk/file",
   "message": "Nueva versión disponible. Debes actualizar para continuar."
 
 }
+
 
 
 
